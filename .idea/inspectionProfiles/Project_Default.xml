@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="haut_ai.sasuke.ml_algorithms.hair_image.hair_segmentation" />
+            <item index="1" class="java.lang.String" itemvalue="haut_ai.sasuke.ml_algorithms.base_models" />
+            <item index="2" class="java.lang.String" itemvalue="haut_ai.sasuke.ml_algorithms.utils.affine_transformer" />
+            <item index="3" class="java.lang.String" itemvalue="haut_ai.sasuke.ml_algorithms.selfie.metrics.wrinkles" />
+            <item index="4" class="java.lang.String" itemvalue="haut_ai.sasuke.ml_algorithms.utils.mesh_builder" />
+            <item index="5" class="java.lang.String" itemvalue="pydantic" />
+            <item index="6" class="java.lang.String" itemvalue="haut_ai.dev.utils.ds.common" />
+            <item index="7" class="java.lang.String" itemvalue="haut_ai.dev.utils.ds.algorithm_base" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
